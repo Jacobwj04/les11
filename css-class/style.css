@@ -1,0 +1,45 @@
+body{
+    background-color: snow;
+    color: black;
+}
+
+h1{
+    color: black;
+}
+
+
+
+
+.cheat {
+    background-color: orange;
+    color: black;
+    border: solid 5px;
+    color: black;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.cheat-green {
+    background-color: teal;
+    color: black;
+    border: solid 5px;
+    color: black;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.cheat-red {
+    background-color: red;
+    color: gray;
+    border: solid 5px;
+    color: black;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.cheat-blue {
+    background-color:blue;
+    color:black;
+    border: solid 5px;
+    color: black;
+    padding: 20px;
+    margin-bottom: 20px;
+}
